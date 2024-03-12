@@ -1,0 +1,14 @@
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\Datoss.dll.config
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\Datoss.dll
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\Datoss.pdb
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\EntityFramework.dll
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\EntityFramework.xml
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alienware\source\repos\Datoss\obj\Debug\Datoss.csproj.AssemblyReference.cache
+C:\Users\Alienware\source\repos\Datoss\obj\Debug\Datoss.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\Datoss\obj\Debug\Datoss.csproj.Up2Date
+C:\Users\Alienware\source\repos\Datoss\obj\Debug\Datoss.dll
+C:\Users\Alienware\source\repos\Datoss\obj\Debug\Datoss.pdb
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\BCrypt.Net.dll
+C:\Users\Alienware\source\repos\Datoss\bin\Debug\BCrypt.Net.xml

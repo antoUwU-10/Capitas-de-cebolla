@@ -1,0 +1,17 @@
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\ModeloNegocios.dll.config
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\ModeloNegocios.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\ModeloNegocios.pdb
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\Datoss.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\Datoss.pdb
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\Datoss.dll.config
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alienware\source\repos\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.AssemblyReference.cache
+C:\Users\Alienware\source\repos\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ModeloNegocios\obj\Debug\ModeloNe.7F79FCF9.Up2Date
+C:\Users\Alienware\source\repos\ModeloNegocios\obj\Debug\ModeloNegocios.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\obj\Debug\ModeloNegocios.pdb
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\BCrypt.Net.dll
+C:\Users\Alienware\source\repos\ModeloNegocios\bin\Debug\BCrypt.Net.xml
